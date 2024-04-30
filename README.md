@@ -6,5 +6,5 @@ Je suis Clément, un jeune développeur débutant qui étudie la programmation i
 ![presentation](presentation.png)
 
 # Mes meilleurs projets :
-- Projet "Maze" en language C : [Projet ici](https://git.ecole-89.com/clement.mondary/2023_maze)
-- Projet "LoL Champs Doc" en HTML, CSS, JavaScript : 
+- Projet "Maze" en language C : [--> Maze <--](https://git.ecole-89.com/clement.mondary/2023_maze)
+- Projet "LoL Champs Doc" en HTML, CSS, JavaScript : [--> LoL Champs Doc <--](https://github.com/Ecole89-B1-2023-2024/LoL_API_Clement_MONDARY)
