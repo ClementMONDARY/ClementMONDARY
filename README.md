@@ -2,7 +2,7 @@
 Je suis Clément, un jeune développeur débutant qui étudie la programmation informatique à l'<a href="https://www.ecole-89.com">École 89</a> de Ferrières-en-Brie. Je vous propose à travers ce readme de faire un tour de mes compétences et de mes meilleurs projets.
 
 # À propos de moi...
-![presentation](presentation.png)
+![presentation](pres.png)
 
 # Mes meilleurs projets :
 - Projet "Maze" en language C : [--> Maze <--](https://git.ecole-89.com/clement.mondary/2023_maze)
