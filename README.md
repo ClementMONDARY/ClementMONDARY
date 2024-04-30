@@ -3,4 +3,4 @@ Je suis Clément, un jeune développeur débutant qui étudie la programmation i
 
 # À propos de moi...
 
-<img href="">
+<img href="presentation.png">
